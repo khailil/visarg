@@ -1,0 +1,24 @@
+For this assignment, I created a poster for a videogame that my roommates and I started for a game jam(a competion where
+teams compete to make the best game they can over a single weekend). The theme for the game jam was "revision" and so we
+decided to make our game a revisionist history time travel game about helping to fix global warming by transitioning to
+cleaner more renewable energy sources. We also threw in a bit of an absurdist element of people being represented with 
+household appliances. 
+
+With the background of the game out of the way, the poster I created is supposed to tease the 5 main locations that the 
+player would visit as the time travel in the game. Those locations are an old West oil rig, an industrial factory, an 
+ocean oil rig, a crypto currency mining farm, and finally Chernobyl. These areas were all given their own slice of the 
+poster divided into 5 spaces by a lightning effect. There's a lot of visual noise in the poster, but by giving it clear 
+seperations, it allows the viewer to focus their attention on one thing at a time. Since our game is in a pixel art style, 
+I reflected that in the poster by bringing in pictures of locations for the game and turning down the opacity and then 
+redrawing them in pixelart on seperate layers. Each location has about 5-10 layers for the various foreground and background 
+elements and the lightning effect that seperates them is also broken up across about 5 layers. The main character is pictured 
+in the center of the poster to imply their importance but also the challenge they face as they're placed below all of the levels
+represented above them. The main character as well as many parts of the locations had their colors picked directly from their 
+reference images or in the case of the main character, their ingame sprite. Beneath the main character is a layer of dust clouds 
+meant to create a calmer and more contrasting background for the tagline, which is a pun based on the main chracter being a 
+microwave. Once I finished making the whole poster, I resized the canvas to add a blank white border around everything so that details
+at the edge of the image wouldn't get lost.a
+
+This is a poster that would probably be seen or sold in a brick and mortar games store or on an online games store. If it were an
+in person store, there would likely be release and liscensing information at the bottom of the poster as well, and if it were online
+there would be other game images and posters on the game's page.
