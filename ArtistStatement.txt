@@ -17,7 +17,7 @@ represented above them. The main character as well as many parts of the location
 reference images or in the case of the main character, their ingame sprite. Beneath the main character is a layer of dust clouds 
 meant to create a calmer and more contrasting background for the tagline, which is a pun based on the main chracter being a 
 microwave. Once I finished making the whole poster, I resized the canvas to add a blank white border around everything so that details
-at the edge of the image wouldn't get lost.a
+at the edge of the image wouldn't get lost by giving it a buffer of negative space.
 
 This is a poster that would probably be seen or sold in a brick and mortar games store or on an online games store. If it were an
 in person store, there would likely be release and liscensing information at the bottom of the poster as well, and if it were online
